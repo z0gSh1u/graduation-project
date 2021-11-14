@@ -1,6 +1,6 @@
 # 基于深度学习的图像超分辨率重建及其在医学影像上的应用
 
-<p align="center"><img src="https://z3.ax1x.com/2021/05/18/ghOSC4.png"></img></p>
+<p align="center"><img src="./Introduction.png"></img></p>
 
 这是我的本科毕业设计。
 
